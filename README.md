@@ -33,24 +33,4 @@ Libraries used (NLTK, re, pandas), and any cleaning decisions (which characters 
 - Number of topics  
 - How the top words per topic are extracted  
 
-## Usage
-Steps to run the project / reproduce results:
-```bash
-# clone repo
-git clone <your-repo-url>
-cd <repo-folder>
 
-# install dependencies
-pip install -r requirements.txt
-
-# (if applicable) download NLTK stopwords:
-python -c "import nltk; nltk.download('stopwords')"
-
-# Run preprocessing
-python preprocess.py
-
-# Sentiment analysis
-python sentiment_analysis.py
-
-# Topic modeling & visualizations
-python topic_modeling.py

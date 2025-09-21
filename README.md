@@ -12,7 +12,7 @@ Myntra reviews
 
 ## Preprocessing
 Describe the preprocessing steps:
-1. Removing missing rows from `text`  
+1. Removing missing rows from Text
 2. Lowercasing  
 3. Removing special characters  
 4. Tokenization  

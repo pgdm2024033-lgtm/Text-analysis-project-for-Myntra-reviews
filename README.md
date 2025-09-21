@@ -18,12 +18,12 @@ Describe the preprocessing steps:
 4. Tokenization  
 5. Stopword removal  
 
-Libraries used (NLTK, re, pandas), and any cleaning decisions (which characters removed, etc.).
+Libraries used (NLTK, re, pandas), and any cleaning decisions
 
 ## Sentiment Analysis
 
-- Which text column used (e.g. `no_special_chars_text`)  
-- Library used (TextBlob)  
+- Text column used No special character   
+- Library used TextBlob  
 - How sentiment score & category are determined (thresholds: >0 = positive, <0 = negative, =0 neutral)  
 
 ## Topic Modeling

@@ -8,7 +8,7 @@ Myntra reviews
 ## Data
 - Source of data (Google Play scraper, etc.)  
 - Size (number of rows, columns)  
-- Fields/Columns description (`text`, `lowercase_text`, `tokenized_text`, etc.)  
+- Fields/Columns description (text, lowercase_text, tokenized_text, etc.)  
 
 ## Preprocessing
 Describe the preprocessing steps:
